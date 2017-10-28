@@ -10,7 +10,7 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "courses": [
     { "id": 1, "title": "Angular", "category": 1},
     { "id": 2, "title": "Java", "category": 1},
@@ -19,5 +19,5 @@
   "courseCategory": [
     { "id": 1, "name": "Technology"},
     { "id": 2, "name": "Process"}
-  ],
+  ]
 }
